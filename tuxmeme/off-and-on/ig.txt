@@ -1,0 +1,8 @@
+IT support has one fix. It's a jingle.
+
+The coffee machine is broken: turn it off and on again. Pip is broken: lights off, lights on, and now he loves Mondays. Then Remy's own screen dies, and the IT hotline knows exactly what to say.
+Episode 10, the third in the Soft style, with Juno and Remy in the new meeting room and break room.
+
+Music and Remy's vocal composed with the ElevenLabs Music API. Voices: ElevenLabs premade voices Laura (Juno), Will (Pip) and Charlie (IT hotline). Sound effects generated with ElevenLabs.
+
+#itsupport #turnitoffandonagain #mondays #officehumor #workcomedy #animatedshorts #vectoranimation
