@@ -1,0 +1,8 @@
+Why did the battle cube have a hole?
+
+The deadliest station in the galaxy has a hole that blows it up. Somebody reported it nine years ago. Lord Gloom asks Enforcer Seven for the priority: medium, then low, then nice to have. The Directorate has since built a new cube; the hole is now listed as a feature.
+A Saga sketch, a space-opera parody narrated by a deadpan field guide, voiced with ElevenLabs premade voices George (narrator), Callum (Lord Gloom) and Liam (Seven); the Directorate and every character are original, drawn in code.
+
+Voices: ElevenLabs premade voices George, Callum and Liam. Sound effects generated with ElevenLabs. Music composed with ElevenLabs Music. Original characters, drawn in code.
+
+#backlog #softwareengineering #techdebt #bugreport #spaceopera #animatedshorts #satire
