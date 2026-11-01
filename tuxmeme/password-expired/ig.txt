@@ -1,0 +1,8 @@
+Why does my password expire every month?
+
+Bruno's password expired again. IT rejects the new one: too similar to the old one. How does IT know his old one? They keep them all, in a spreadsheet. Was the spreadsheet password protected? It was. It expired.
+A Toon sketch voiced with ElevenLabs premade voices Bill (Bruno) and Alice (Pip), lip-synced to their words; original characters drawn in code.
+
+Voices: ElevenLabs premade voices Bill and Alice. Original characters, drawn in code.
+
+#passwords #ithelpdesk #cybersecurity #officehumor #workcomedy #animatedshorts #lipsync
